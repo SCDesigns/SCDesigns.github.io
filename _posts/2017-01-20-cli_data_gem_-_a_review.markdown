@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CLI Data Gem - A Review"
-date:   2017-01-20 19:20:58 +0000
+date:   2017-01-20 14:20:59 -0500
 ---
 
 
