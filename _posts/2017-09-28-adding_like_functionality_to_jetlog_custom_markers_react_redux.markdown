@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Adding Like Functionality to JetLog + Custom Markers [React + Redux]"
-date:   2017-09-28 17:25:36 +0000
+date:   2017-09-28 13:25:36 -0400
 ---
 
 
